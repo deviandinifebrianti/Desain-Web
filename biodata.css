@@ -1,0 +1,38 @@
+
+       *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+       } 
+        ul li{
+			margin: 5px;
+        }
+
+        .yt{
+            color: blue;
+        }
+
+        .container{
+            width: 100%;
+            display: flex;
+            min-height: 100vh;
+        }
+        
+        .ul{
+            margin-left: 10px;
+        }
+
+        .con{
+            font-size: 18pt;
+        }
+
+        .row{
+            background-color: rgb(247, 221, 181);
+            width: 25%;
+            padding-left: 12px;
+        }
+
+        .left{
+            width: 75%;
+            background-color: rgb(231, 200, 200);
+        }
